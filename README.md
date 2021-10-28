@@ -12,10 +12,10 @@
 - 👯 I’m looking to work in the Tech Industry as a WebDeveloper to further develop and enhance my coding skills.
 
 
-- 💬 Ask me about anything aforementioned, I would gladly discuss whatever I know about the theme, or geopolitics and history... =)
+- 💬 Ask me about anything aforementioned, I would gladly discuss whatever I know about the theme, or geopolitics and history. =)
 
 
-- 📫 Email:   gus.lcampos38@gmail.com, 
+- 📫 Email:   gus.lcampos38@gmail.com
 - 📫  Discord: loloopes #5383
 - 😄 Pronouns: He/Him
 
