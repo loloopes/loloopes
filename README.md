@@ -25,5 +25,4 @@ towards WebDevelopment as a start...
 -                     
 - 😄 Pronouns: He/Him
 
-
 - ⚡ Fun fact: I S2 languages, spoken, writen, programming, all of them!
