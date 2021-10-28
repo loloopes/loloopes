@@ -3,7 +3,7 @@
 ### Cocou!!
 ### 你好!
 
-- 🔭 I’m currently working on few FrontEnd projects to enhance my skills with ReactJS, Redux, CSS+Frameworks.
+- 🔭 I’m currently working on few FrontEnd projects to enhance my skills with ReactJS, Redux, ContextAPI, CSS+Frameworks.
 
 
 - 🌱 I’m currently learning BackEnd development: SQL, NoSQL, nodeJS, Docker, TypeScript, Python.
