@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning BackEnd development: SQL, NoSQL, nodeJS, Docker, TypeScript, Python.
 
 
-- 👯 I’m looking to work in the Tech Industry as a WebDeveloper to further develop and enhance my coding skills.
+- 👯 I’m looking to work in the Tech Industry as a Developer to further develop and enhance my coding skills.
 
 
 - 💬 Ask me about anything aforementioned, I would gladly discuss whatever I know about the theme, or geopolitics and history. =)
