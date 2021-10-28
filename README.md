@@ -3,11 +3,6 @@
 ### Cocou!!
 ### 你好!
 
-My name is Gustavo Lopes, I recently decided to sway my
-engineering career toward the tech industry, particulary 
-towards WebDevelopment as a start...
-
-
 - 🔭 I’m currently working on few FrontEnd projects to enhance my skills with CSS.
 
 
