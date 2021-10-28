@@ -1,14 +1,17 @@
-### Ola!! 👋
+### HOla!! 👋
+### Hi!!
+### Cocou!!
+### 你好!
 
 My name is Gustavo Lopes, I recently decided to sway my
 engineering career toward the tech industry, particulary 
-towards WebDevelopment as a start.
+towards WebDevelopment as a start...
 
 
-- 🔭 I’m currently working on few FrontEnd projects.
+- 🔭 I’m currently working on few FrontEnd projects to enhance my skills with CSS.
 
 
-- 🌱 I’m currently learning BackEnd development: SQL, NoSQL, nodeJS, Docker, TypeScript
+- 🌱 I’m currently learning BackEnd development: SQL, NoSQL, nodeJS, Docker, TypeScript.
 
 
 - 👯 I’m looking to work within the Tech Industry as a WebDeveloper to further develop and enhance my coding skills.
@@ -23,4 +26,4 @@ towards WebDevelopment as a start.
 - 😄 Pronouns: He/Him
 
 
-- ⚡ Fun fact: I languages, spoken, writen, programming, all of them!
+- ⚡ Fun fact: I S2 languages, spoken, writen, programming, all of them!
