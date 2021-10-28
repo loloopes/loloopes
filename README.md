@@ -21,7 +21,7 @@ towards WebDevelopment as a start...
 
 
 - 📫 Email:   gus.lcampos38@gmail.com, 
--    Discord: loloopes #5383
+- 📫  Discord: loloopes #5383
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I S2 languages, spoken, writen, programming, all of them!
