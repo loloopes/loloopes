@@ -14,7 +14,7 @@ towards WebDevelopment as a start...
 - 🌱 I’m currently learning BackEnd development: SQL, NoSQL, nodeJS, Docker, TypeScript.
 
 
-- 👯 I’m looking to work within the Tech Industry as a WebDeveloper to further develop and enhance my coding skills.
+- 👯 I’m looking to work in the Tech Industry as a WebDeveloper to further develop and enhance my coding skills.
 
 
 - 💬 Ask me about anything aforementioned, I would gladly discuss whatever I know about theme, or geopolitics... =)
