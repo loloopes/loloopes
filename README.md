@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on few FrontEnd projects to enhance my skills with ReactJS, Redux, ContextAPI, CSS+Frameworks.
 
 
-- 🌱 I’m currently learning BackEnd development: SQL, NoSQL, nodeJS, Docker, TypeScript, Python.
+- 🌱 Learning BackEnd development: SQL, NoSQL, nodeJS, Docker, TypeScript, Python.
 
 
-- 👯 I’m looking to work in the Tech Industry as a Developer to further develop and enhance my coding skills.
+- 👯 Looking for work in the Tech Industry as a Developer to further develop and enhance my coding skills.
 
 
 - 💬 Ask me about anything aforementioned, I would gladly discuss whatever I know about the theme, or geopolitics and history. =)
