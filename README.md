@@ -3,13 +3,7 @@
 ### Cocou!!
 ### 你好!
 
-- 🔭 I’m currently working on few FrontEnd projects to enhance my skills with ReactJS, Redux, ContextAPI, CSS+Frameworks.
-
-
-- 🌱 Learning BackEnd development: SQL, NoSQL, nodeJS, Docker, TypeScript, Python.
-
-
-- 👯 Looking for work in the Tech Industry as a Developer to further develop and enhance my coding skills.
+- 🔭 DDD, TypeScript, NestJs, ReactJs
 
 
 - 💬 Ask me about anything aforementioned, I would gladly discuss whatever I know about the theme, or geopolitics and history. =)
