@@ -3,7 +3,7 @@
 ### Cocou!!
 ### 你好!
 
-- 🔭 DDD, TypeScript, NestJs, ReactJs
+- 🔭 Keras, TensorFlow, ScikitLearn, BackEnd Development
 
 
 - 💬 Ask me about anything aforementioned, I would gladly discuss whatever I know about the theme, or geopolitics and history. =)
