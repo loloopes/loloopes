@@ -3,7 +3,7 @@
 ### Cocou!!
 ### 你好!
 
-- 🔭 Programming, Software Development, Web Development, Machine Learning
+- 🔭 Programming, Software Development, backend Development, Machine Learning, Data Science
 
 
 - 💬 Ask me about anything aforementioned, I would gladly discuss whatever I know about the theme, or geopolitics and history. =)
