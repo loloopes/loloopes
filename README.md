@@ -12,6 +12,6 @@
 - 📫 Email:   gus.lcampos38@gmail.com
 - 📫  Discord: loloopes #5383
 - 😄 Pronouns: He/Him
-- DataScience/MachineLearning
+- DataScience/MachineLearning/Back End
 
 - ⚡ Fun fact: I S2 languages, spoken, writen, programming, all of them!
